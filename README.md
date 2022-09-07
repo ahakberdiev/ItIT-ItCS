@@ -1,5 +1,5 @@
 # ItIT-ItCS
-## Repo to access my code from any device
+## Repo to collab on code with groupmates
 Particularly this one includes only that code which is related to ItIT/ItCS
 This will include:
 - assignments
